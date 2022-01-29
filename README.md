@@ -1,6 +1,15 @@
 # epub2audiobook
 Creating an Audiobook (mp3 file) using a Ebook (epub) using BeautifulSoup and Google Text to Speech
 
+# Input examples
+
+### qual a pasta do seu arquivo ebook?
+C:\Users\yourname\Documents\...\newfolder\
+it has to have a last forward-slash ("\")
+
+### qual o nome do seu arquivo ebook (sem o .epub)?
+Input-book
+
 I wrote this in 2020. This is one of my first python projects.
 I've made improvements on it, but it isn't my cleanest code.
 Please be kind in the comments, I look forward to hearing some feedbacks :)
