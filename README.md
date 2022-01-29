@@ -4,7 +4,7 @@ Creating an Audiobook (mp3 file) using a Ebook (epub) using BeautifulSoup and Go
 # Input examples
 
 ### qual a pasta do seu arquivo ebook?
-C:\Users\yourname\Documents\...\newfolder\
+C:\Users\yourname\Documents\...\newfolder\      
 it has to have a last forward-slash (" \ ")
 
 ### qual o nome do seu arquivo ebook (sem o .epub)?
