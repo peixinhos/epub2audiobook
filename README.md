@@ -10,6 +10,7 @@ it has to have a last forward-slash (" \ ")
 ### qual o nome do seu arquivo ebook (sem o .epub)?
 Input-book
 
+# About
 I wrote this in 2020. This is one of my first python projects.
 I've made improvements on it, but it isn't my cleanest code.
 Please be kind in the comments, I look forward to hearing some feedbacks :)
